@@ -131,7 +131,7 @@ img {
 .contacts-list .contacts-link:focus {
   color: var(--accent-color);
 }
-.line {
+.line-header {
   border: 1px solid #ECECEC;
 }
 /* --------HERO------- */
@@ -417,4 +417,3 @@ border: 1px solid #EEEEEE;
   background: #FFFFFF;
 border: 1px solid #EEEEEE;
 }
-.test {}
